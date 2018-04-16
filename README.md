@@ -2,7 +2,7 @@
 ### Git / Github
 * 1
 * 2
-* https://www.codecademy.com/learn/learn-html
+* 3
 ### Atom
 * 1
 * 2
@@ -10,7 +10,7 @@
 ### HTML / CSS
 * 1
 * 2
-* 3
+* https://www.codecademy.com/learn/learn-html
 ### JavaScript (JS)
 * 1
 * 2
