@@ -1,5 +1,5 @@
 # Self Study Online Tutorials
-## Git / Github
+#### Git / Github
 * 1
 * 2
 * https://www.codecademy.com/
