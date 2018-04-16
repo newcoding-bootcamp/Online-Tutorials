@@ -1,13 +1,37 @@
-# Self Study Online Tutorials
+## Self Study Online Tutorials
 ### Git / Github
 * 1
 * 2
 * https://www.codecademy.com/
-## Atom
-## HTML / CSS
-## JavaScript (JS)
-## JS w/node 
-## JS w/jQuery
-## React Native
-## SQL
-## Go
+### Atom
+* 1
+* 2
+* 3
+### HTML / CSS
+* 1
+* 2
+* 3
+### JavaScript (JS)
+* 1
+* 2
+* 3
+### JS w/node
+* 1
+* 2
+* 3
+### JS w/jQuery
+* 1
+* 2
+* 3
+### React Native
+* 1
+* 2
+* 3
+### SQL
+* 1
+* 2
+* 3
+### Go
+* 1
+* 2
+* 3
