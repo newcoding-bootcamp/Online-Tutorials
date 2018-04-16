@@ -2,7 +2,7 @@
 ## Git / Github
 * 1
 * 2
-* 3
+* https://www.codecademy.com/
 ## Atom
 ## HTML / CSS
 ## JavaScript (JS)
