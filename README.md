@@ -2,7 +2,7 @@
 ### Git / Github
 * 1
 * 2
-* https://www.codecademy.com/
+* https://www.codecademy.com/learn/learn-html
 ### Atom
 * 1
 * 2
