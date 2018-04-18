@@ -1,9 +1,13 @@
-## Self Study Online Tutorials
-### Git / Github
+## Self Study Online Tutorials - Curated by NewCoding Staff and Mentors
+### Computer Science Fundamentals
+* [Harvard CS50 Lecture 0](https://www.youtube.com/watch?v=y62zj9ozPOM)
+* 2
+* 3
+### Git / Github (version control)
 * 1
 * 2
 * 3
-### Atom
+### VS Code (text editor)
 * 1
 * 2
 * 3
@@ -19,19 +23,23 @@
 * 1
 * 2
 * 3
-### JS w/jQuery
+### React.js
 * 1
 * 2
 * 3
-### React Native
+### React.js Native
 * 1
 * 2
 * 3
-### SQL
+### PostgreSQL
 * 1
 * 2
 * 3
-### Go
+### React.js VR
+* 1
+* 2
+* 3
+### Go, Java, C++
 * 1
 * 2
 * 3
