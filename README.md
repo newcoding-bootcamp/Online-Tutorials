@@ -36,6 +36,14 @@ These tutorials are curated by NewCoding Staff and Mentors for your coding curio
 ## GitHub Pages
 * [GitHub Pages Intro (Official)](https://guides.github.com/features/pages/)
 
+## Command Line
+
+#### Tutorials
+* [Command Line Power User | Wes Bos](https://wesbos.com/command-line-video-tutorials/)
+
+#### Tools
+* [zsh](https://github.com/robbyrussell/oh-my-zsh/wiki/Installing-ZSH) - Installing ZSH
+
 ## JavaScript (JS)
 * 1
 * 2
