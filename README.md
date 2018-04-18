@@ -1,5 +1,6 @@
 ## Self Study Online Tutorials - Curated by NewCoding Staff and Mentors
 ### Computer Science Fundamentals
+* <a href="https://www.youtube.com/watch?v=y62zj9ozPOM" target="_blank">Harvard CS50 Lecture 0</a>
 * [Harvard CS50 Lecture 0](https://www.youtube.com/watch?v=y62zj9ozPOM)
 * 2
 * 3
@@ -14,7 +15,7 @@
 ### HTML / CSS
 * 1
 * 2
-* https://www.codecademy.com/learn/learn-html
+* https://www.codecademy.com/learn/learn-html ???
 ### JavaScript (JS)
 * 1
 * 2
