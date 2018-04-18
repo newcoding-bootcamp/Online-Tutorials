@@ -1,6 +1,8 @@
 # Self-Study Online Tutorials 
 These tutorials are curated by NewCoding Staff and Mentors for your coding curiosity and growth.
 
+**NOTE**: Don't use anything from www.w3schools.com. Despite the name, they are not affiliated with [W3C](https://www.w3.org/), the organization that maintains internet standards. Many of their resources are outdated. Use [MDN](https://developer.mozilla.org/) instead.
+
 ### Computer Science Fundamentals
 * <a href="https://www.youtube.com/watch?v=y62zj9ozPOM/" target="_blank">Harvard CS50 Lecture 0</a>
 * 2
@@ -18,9 +20,10 @@ These tutorials are curated by NewCoding Staff and Mentors for your coding curio
 * 2
 * 3
 ### HTML / CSS
-* 1
-* 2
-* https://www.codecademy.com/learn/learn-html ???
+* [Learn HTML](https://www.codecademy.com/learn/learn-html)
+* [Learn CSS](https://www.codecademy.com/learn/learn-css)
+* [Make a Website | Codecademy](https://www.codecademy.com/learn/make-a-website)
+
 ### JavaScript (JS)
 * 1
 * 2
